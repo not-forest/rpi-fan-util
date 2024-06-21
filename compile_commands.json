@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/aarch64-linux-gnu-gcc",
+      "-c",
+      "-g3",
+      "-O3",
+      "-Wall",
+      "-o",
+      "rpi_fan_util",
+      "src/main.c"
+    ],
+    "directory": "/home/notforest/Documents/rpi4-fan-driver/src/rpi-fan-util",
+    "file": "/home/notforest/Documents/rpi4-fan-driver/src/rpi-fan-util/src/main.c",
+    "output": "/home/notforest/Documents/rpi4-fan-driver/src/rpi-fan-util/rpi_fan_util"
+  }
+]
